@@ -1,4 +1,4 @@
-# GenAI-Powered-Investment-Analytics-Tool-for-Strategic-Investment-Insights-based-on-ESG-News
+# Unlocking Market Insights: A Predictive Framework for CSR/ESG News Impact on Investment Worthiness
 
 ***PROJECT IN PROGRESS, STAY TUNED***
 
